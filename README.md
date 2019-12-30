@@ -1,0 +1,1 @@
+URI online judge problem sql(Structured Query Language) solutions.

@@ -1,0 +1,1 @@
+SELECT movies.id, name FROM movies, genres WHERE movies.id_genres=genres.id AND description='Action';
